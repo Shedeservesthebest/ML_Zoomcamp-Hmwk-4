@@ -3,7 +3,7 @@ Homework Assignment: Bank Marketing Dataset Analysis
 
 This assignment focuses on analyzing the Bank Marketing dataset to predict if a client will subscribe to a term deposit. The task involves using logistic regression and evaluating the model's performance using metrics like ROC AUC, precision, recall, and F1 score. Additionally, hyperparameter tuning is performed with cross-validation.
 
-Dataset Information
+Dataset Information: 
 The dataset used is the Bank Marketing dataset from the UCI Machine Learning Repository. The target variable is y, which indicates whether the client subscribed to a term deposit.
 
 Download and Extract the Dataset:
