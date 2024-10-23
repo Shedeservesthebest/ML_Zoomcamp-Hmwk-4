@@ -10,10 +10,15 @@ Download and Extract the Dataset:
 You can download the dataset and extract it using the following commands:
 
 bash
+
 Copy code
+
 wget https://archive.ics.uci.edu/static/public/222/bank+marketing.zip
+
 unzip bank+marketing.zip
+
 unzip bank.zip
+
 The file we are using is bank-full.csv.
 
 Task Overview
